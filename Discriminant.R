@@ -2,7 +2,7 @@
 ## This program predicts the number of floors in single family
 ## homes using discriminant analysis (both LDA and QDA).
 
-setwd("/Users/Bradley/Dropbox/website/machine_learning/")
+setwd("/Users/Bradley/Dropbox/...")
 
 library(MASS)
 
