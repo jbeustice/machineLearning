@@ -4,7 +4,7 @@
 
 setwd("/Users/Bradley/Dropbox/...")
 
-## load required libraries
+# load required libraries
 library(randomForest)
 library(gbm)
 
