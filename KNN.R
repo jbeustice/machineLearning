@@ -3,7 +3,7 @@
 ## homes using the k-nearest neighbor algorithm. The value k
 ## is found by cross-validation.
 
-setwd("/Users/Bradley/Dropbox/website/machine_learning/")
+setwd("/Users/Bradley/Dropbox/...")
 
 library(caret)
 
