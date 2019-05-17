@@ -4,6 +4,7 @@
 
 setwd("/Users/Bradley/Dropbox/...")
 
+# load packages
 library(MASS)
 
 # read in data + clean
