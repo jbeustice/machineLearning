@@ -2,7 +2,7 @@
 ## This program predicts the overall player score of soccor players in
 ## the FIFA 2019 database using random forests and boosting.
 
-setwd("/Users/Bradley/Dropbox/website/machine_learning/")
+setwd("/Users/Bradley/Dropbox/...")
 
 ## load required libraries
 library(randomForest)
