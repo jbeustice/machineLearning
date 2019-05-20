@@ -5,7 +5,7 @@
 
 rm(list=ls())
 
-setwd("/Users/Bradley/Dropbox/website/machine_learning/")
+setwd("/Users/Bradley/Dropbox/...")
 
 # load required libraries
 library(ggplot2) # plot
