@@ -4,7 +4,7 @@
 ## regions using ensemble methods (stacking) from 2 base
 ## models: k-NN and random forests.
 
-setwd("/Users/Bradley/Dropbox/website/machine_learning/")
+setwd("/Users/Bradley/Dropbox/...")
 
 library(caret)
 library(randomForest)
